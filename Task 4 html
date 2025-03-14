@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="frame-1-1">
+<img src="images/ellipse-1-2.svg" class="ellipse-1-2" alt="ellipse-1" />
+<div class="rectangle-1-3"></div>
+<div class="rectangle-2-4"></div>
+<div class="rectangle-3-5"></div>
+<div class="rectangle-4-6"></div>
+<img src="images/arrow-1-7.svg" class="arrow-1-7" alt="arrow-1" />
+<img src="images/arrow-2-8.svg" class="arrow-2-8" alt="arrow-2" />
+<img src="images/arrow-3-9.svg" class="arrow-3-9" alt="arrow-3" />
+<img src="images/arrow-4-10.svg" class="arrow-4-10" alt="arrow-4" />
+<img src="images/ellipse-2-11.svg" class="ellipse-2-11" alt="ellipse-2" />
+<p class="text-12"><span class="text-white">Success</span></p>
+<p class="text-13"><span class="text-black">Knowledge</span></p>
+<p class="text-14"><span class="text-black">Learning</span></p>
+<p class="text-15"><span class="text-black">Progress</span></p>
+<p class="text-16"><span class="text-black">Never give up</span></p>
+</div>
+
+</body>
+</html>
