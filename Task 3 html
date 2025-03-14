@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="frame-1-1">
+<div class="rectangle-5-2"></div>
+<div class="rectangle-1-3"></div>
+<div class="rectangle-2-4"></div>
+<img src="images/union-5.svg" class="union-5" alt="union" />
+<img src="images/subtract-6.svg" class="subtract-6" alt="subtract" />
+<img src="images/subtract-7.svg" class="subtract-7" alt="subtract" />
+<img src="images/subtract-8.svg" class="subtract-8" alt="subtract" />
+<div class="rectangle-4-9"></div>
+<p class="text-10"><span class="text-black">STAR WORLD</span></p>
+<p class="text-11"><span class="text-black">Contact: 9876543210</span></p>
+<img src="images/subtract-12.svg" class="subtract-12" alt="subtract" />
+<img src="images/subtract-13.svg" class="subtract-13" alt="subtract" />
+</div>
+
+</body>
+</html>
