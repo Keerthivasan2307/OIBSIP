@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="frame-1-1">
+<img src="images/image-2.png" class="image-2" alt="image" />
+<img src="images/ellipse-1-3.svg" class="ellipse-1-3" alt="ellipse-1" />
+<img src="images/polygon-4-4.svg" class="polygon-4-4" alt="polygon-4" />
+<img src="images/polygon-2-5.svg" class="polygon-2-5" alt="polygon-2" />
+<img src="images/polygon-3-6.svg" class="polygon-3-6" alt="polygon-3" />
+<img src="images/polygon-1-7.svg" class="polygon-1-7" alt="polygon-1" />
+<p class="text-8"><span class="text-black">Date: 01.03.2025</span></p>
+<p class="text-9"><span class="text-black">Place: ABC Stadium</span></p>
+<p class="text-10"><span class="text-black">Chief Guest</span></p>
+<p class="text-11"><span class="text-black">Welcome To Grand Finale</span></p>
+<p class="text-12"><span class="text-black">Concert on Music</span></p>
+<img src="images/image-13.svg" class="image-13" alt="image" />
+</div>
+
+</body>
+</html>
