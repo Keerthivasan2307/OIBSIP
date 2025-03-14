@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exported Figma Design</title>
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="frame-1-1">
+<div class="rectangle-1-2"></div>
+<img src="images/subtract-3.svg" class="subtract-3" alt="subtract" />
+<img src="images/subtract-4.svg" class="subtract-4" alt="subtract" />
+<img src="images/subtract-5.svg" class="subtract-5" alt="subtract" />
+<img src="images/subtract-6.svg" class="subtract-6" alt="subtract" />
+<p class="text-7"><span class="text-white">STAR WORLD</span></p>
+</div>
+
+</body>
+</html>
